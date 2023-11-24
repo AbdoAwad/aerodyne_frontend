@@ -1,0 +1,27 @@
+table {
+  width: 80%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.add-restaurant-button {
+  margin-right: 100px; 
+  width: 100%; 
+}
+
+td, th {
+  width: 25%;
+}
+
+.restaurant-table{
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+.clickable-cell {
+  cursor: pointer;
+  color: blue;
+}
